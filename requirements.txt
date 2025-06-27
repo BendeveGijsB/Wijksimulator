@@ -1,0 +1,6 @@
+numpy
+pandas
+ipywidgets>=7.6
+matplotlib
+voila
+joblib
